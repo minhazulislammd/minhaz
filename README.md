@@ -1,1 +1,1 @@
-https://github.com/minhazulislam501/minhaz.git
+https://minhazulislam501.github.io/minhaz/
